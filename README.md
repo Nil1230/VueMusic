@@ -6,6 +6,11 @@ UI也准备重新开发。有一些好玩的东西在构思中，亟待实现效
 
 ![输入图片说明](20220121160636.jpg)
 
+
+[基于网易云音乐API实现PC端音乐网站](https://gitee.com/trtst/vue_pc_music)
+
+[vue3.x重构升级原vue2.x的网易云音乐PC端项目](https://gitee.com/trtst/vue3.x_music)
+
 #### 软件架构
 软件架构说明
 
