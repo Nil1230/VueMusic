@@ -9,6 +9,13 @@ UI也准备重新开发。有一些好玩的东西在构思中，亟待实现效
 [vue3.x重构升级原vue2.x的网易云音乐PC端项目](https://gitee.com/trtst/vue3.x_music)
 
 
+已完成效果视频展示：
+
+1、[播放器](https://www.bilibili.com/video/BV173411a7MR)
+
+
+效果图展示
+![输入图片说明](20220121184612.jpg)
 
 
 
