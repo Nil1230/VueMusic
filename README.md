@@ -1,20 +1,54 @@
 # vue3 网易云音乐
 
+#### 前言
+
+开头还是感谢 [网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)提供的API练练手。
+
+目前已完成音乐网站的大部分功能，部分细节有可能需要优化调整，如果你有更好的想法实现或者发现了错误、抑或代码优化建议等等，可以留言，我会回复。你的订阅，就是我的动力。
+
+欢迎 **watch** / **star** / **fork** ,一键三连。 :clap: 
+
+ **Vue2.x版本** ：[基于网易云音乐API实现PC端音乐网站](https://gitee.com/trtst/vue_pc_music)
+
+
 #### 介绍
-唔，vue3稍微进阶版，尽量高级一点，代码也尽量规范一点儿，稍微锻炼一下自己。
-UI也准备重新开发。有一些好玩的东西在构思中，亟待实现效果。 哈哈  期待能够完成！
 
-[基于网易云音乐API实现PC端音乐网站](https://gitee.com/trtst/vue_pc_music)
+该项目是基于 Vue 和 ElementUI 组件库 搭建的一个PC端的音乐网站，能登录网易云音乐用户账号，听歌、评论、收藏等功能。
 
-[vue3.x重构升级原vue2.x的网易云音乐PC端项目](https://gitee.com/trtst/vue3.x_music)
+#### 项目安装
 
+
+```
+//首先你应当克隆该项目
+git clone https://gitee.com/trtst/vue3-music.git
+ 
+// 然后 安装项目依赖
+npm install
+ 
+// 接下来 部署服务端（二选一）
+a) 克隆服务端项目并运行
+b）部署服务端项目到Vercel
+ 
+// 运行项目
+npm run dev
+```
+
+
+#### 技术栈
+
+Vue3 /
+Vue-router /
+Element-UI /
+Axios /
+Vuex /
+Vite
 
 #### 视频展示
 
 1、[播放器](https://www.bilibili.com/video/BV173411a7MR)
 
 
-#### 效果图展示
+#### 效果图预览展示
 
 ##### 首页
 
