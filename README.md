@@ -47,6 +47,12 @@ Axios /
 Vuex /
 Vite
 
+#### 问题交流群
+
+ **欢迎加群一起讨论** 
+
+![加群：233725017](img/20220217112332.jpg)
+
 #### 视频展示
 
 1、[播放器](https://www.bilibili.com/video/BV173411a7MR)
