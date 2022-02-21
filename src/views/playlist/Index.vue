@@ -38,7 +38,7 @@
 
 <script>
 import PlayList from '@components/PlayList.vue';
-import Loading from '@components/loading.vue'
+import Loading from '@components/Loading.vue'
 
 import { onMounted, getCurrentInstance, reactive, toRefs, computed, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
